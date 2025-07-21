@@ -1,5 +1,8 @@
 
 📊 HR Dashboard Project – Tableau
+## 🔗 Live Dashboard
+View the interactive HR Dashboard here:  
+👉 [HR Dashboard on Tableau Public]  https://public.tableau.com/app/profile/harshdeep.singh5643/viz/HR-Dashboard_17531341968470/HRSUMMARY#1
 
 This project is a complete, end-to-end HR dashboard built using Tableau, designed to simulate real-world business analytics and data visualization practices. It showcases how to go from a raw dataset and project requirements to a polished, interactive dashboard suitable for professional use.
 
